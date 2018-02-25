@@ -13,3 +13,7 @@ single productor , it's possible to implement a lock-free queue.
     - generic buffer ring implementaion
     - lock-free in particular scenario
 
+* `struct kfifo`:
+
+* `struct rb_node`:
+
